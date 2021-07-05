@@ -52,9 +52,7 @@ e.preventDefault()
 </Button>
 </Form>
      </div> 
-     <h1>My email {email}</h1>
-     <h1>password {password}</h1>
-        </div>
+   
     )
 }
 
